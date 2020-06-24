@@ -1,0 +1,84 @@
+.fp-style-1 {
+ background-color: rgb(55, 46, 139);
+}
+
+.loaded .fp-style-2 {
+ background-image: url('./../imgs/Screen-Shot-2020-06-24-at-51944-PM-5ef3d1b2d24338.72007835.png');	
+}
+
+.fp-style-3 {
+ background-repeat: repeat-y;
+}
+
+.loaded .fp-style-3 {
+ background-image: url('./../imgs/bg-03.jpg');	
+}
+
+.loaded .fp-style-4 {
+ background-image: url('null');	
+}
+
+.loaded .fp-style-5 {
+ background-image: url(./../imgs/bg-12.jpg);	
+}
+
+.loaded .fp-style-6 {
+ background-image: url(./../imgs/bg-18.jpg);	
+}
+
+.fp-style-7 {
+ background: black;
+}
+
+.fp-style-8 {
+ background: rgb(137, 238, 189);
+}
+
+.fp-style-9 {
+ background: rgb(255, 90, 96);
+}
+
+.fp-style-10 {
+ background: rgb(55, 46, 139);
+}
+
+.fp-style-11 {
+ font-size: 22px;
+}
+
+.fp-style-12 {
+ height: 58px;
+letter-spacing: 0.04em;
+line-height: 1.7;
+margin-bottom: 15px;
+padding: 0px;
+}
+
+.fp-style-13 {
+ height: 171px;
+letter-spacing: -0.035em;
+line-height: 1.2;
+margin-bottom: 40px;
+padding: 0px;
+text-align: left;
+}
+
+.fp-style-14 {
+ letter-spacing: 0.06em;
+line-height: 1.8;
+}
+
+.fp-style-15 {
+ margin-right: 25px;
+}
+
+.fp-style-16 {
+ margin-right: 4px;
+}
+
+.fp-style-17 {
+ height: 70px;
+object-fit: cover;
+width: 162px;
+}
+
